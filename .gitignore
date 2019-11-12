@@ -9,3 +9,5 @@
 /.vs/NLog.Targets.Splunk/v16
 /packages
 /.vs/NLog.Targets.Splunk
+/bin/Debug
+/bin/Release
