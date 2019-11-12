@@ -34,7 +34,7 @@ Version 1.0.0
 - Code cleanup and performance improvements
 Verison 0.0.1
 - First publish to NuGet</PackageReleaseNotes>
-    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <AssemblyVersion>2.2.2.0</AssemblyVersion>
     <FileVersion>2.2.2.0</FileVersion>
   </PropertyGroup>
